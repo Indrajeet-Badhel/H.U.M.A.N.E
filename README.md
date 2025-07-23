@@ -128,6 +128,11 @@ Styling: app.css, landing.css, styles.css
 
  GUI/Avatar for visual feedback
 
+ ## 🎥 Demo
+
+[![Watch the video](https://youtu.be/GAICcOX4VJY.jpg)](https://youtu.be/GAICcOX4VJY)
+
+
 ### Credits
 Created by Indrajeet Badhel
 🎓 Vishwakarma Institute of Technology
